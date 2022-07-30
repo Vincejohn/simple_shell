@@ -36,4 +36,4 @@ A command-line always ends with a newline
 
 Credits
 
-All codes written by Tlou Selolo and YOUR NAME
+All codes written by Tlou Selolo and Vincent John
