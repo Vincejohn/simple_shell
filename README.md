@@ -23,12 +23,12 @@ In non-interactive mode, echo your desired command and pipe it into the program 
 
 FEATURES
 
-1. Display a promt and wait for ther user to type a command.
+1. Display a promt and wait for the user to type a command.
 A command-line always ends with a newline
 
-2. The prompt is displayed again each time a command has beenexecuted
+2. The prompt is displayed again each time a command has been executed
 
-3. The command linesare simple, no semicolons, no pipes no redirections, or any other advanced features.
+3. The command lines are simple, no semicolons, no pipes, no redirections, or any other advanced features.
 
 4. The command lines are made only of one word. No argument will be passed to the programs.
 
